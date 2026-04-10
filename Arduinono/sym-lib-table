@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "TS42_RESET")(type "KiCad")(uri "${KIPRJMOD}/TS42_RESET.kicad_sym")(options "")(descr ""))
-)
